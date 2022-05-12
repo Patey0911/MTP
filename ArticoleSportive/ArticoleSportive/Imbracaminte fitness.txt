@@ -1,0 +1,18 @@
+Categorie: Imbracaminte fitness
+Nume: 23
+Producator: 23
+Nr. inventar: 43
+Nr. bucati: 34
+Pret: 100
+Categorie: Imbracaminte fitness
+Nume: dfsdf
+Producator: sdf
+Nr. inventar: 32
+Nr. bucati: 2
+Pret: 100
+Categorie: Imbracaminte fitness
+Nume: dfsdf
+Producator: sdf
+Nr. inventar: 32
+Nr. bucati: 2
+Pret: 100

@@ -1,0 +1,12 @@
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\bin\Debug\Cadouri.exe.config
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\bin\Debug\Cadouri.exe
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\bin\Debug\Cadouri.pdb
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\obj\Debug\Cadouri.csproj.AssemblyReference.cache
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\obj\Debug\Cadouri.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\obj\Debug\Cadouri.Form1.resources
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\obj\Debug\Cadouri.Form2.resources
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\obj\Debug\Cadouri.Properties.Resources.resources
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\obj\Debug\Cadouri.csproj.GenerateResource.cache
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\obj\Debug\Cadouri.csproj.CoreCompileInputs.cache
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\obj\Debug\Cadouri.exe
+C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\obj\Debug\Cadouri.pdb

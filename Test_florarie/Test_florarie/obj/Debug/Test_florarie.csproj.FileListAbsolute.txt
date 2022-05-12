@@ -1,0 +1,23 @@
+D:\faculta\AN III\Semestrul I\MTP - Medii si Tehnologii de Programare\Laborator\Test\Test_florarie\Test_florarie\bin\Debug\Test_florarie.exe.config
+D:\faculta\AN III\Semestrul I\MTP - Medii si Tehnologii de Programare\Laborator\Test\Test_florarie\Test_florarie\bin\Debug\Test_florarie.exe
+D:\faculta\AN III\Semestrul I\MTP - Medii si Tehnologii de Programare\Laborator\Test\Test_florarie\Test_florarie\bin\Debug\Test_florarie.pdb
+D:\faculta\AN III\Semestrul I\MTP - Medii si Tehnologii de Programare\Laborator\Test\Test_florarie\Test_florarie\obj\Debug\Test_florarie.csprojResolveAssemblyReference.cache
+D:\faculta\AN III\Semestrul I\MTP - Medii si Tehnologii de Programare\Laborator\Test\Test_florarie\Test_florarie\obj\Debug\Test_florarie.Form1.resources
+D:\faculta\AN III\Semestrul I\MTP - Medii si Tehnologii de Programare\Laborator\Test\Test_florarie\Test_florarie\obj\Debug\Test_florarie.Properties.Resources.resources
+D:\faculta\AN III\Semestrul I\MTP - Medii si Tehnologii de Programare\Laborator\Test\Test_florarie\Test_florarie\obj\Debug\Test_florarie.csproj.GenerateResource.Cache
+D:\faculta\AN III\Semestrul I\MTP - Medii si Tehnologii de Programare\Laborator\Test\Test_florarie\Test_florarie\obj\Debug\Test_florarie.csproj.CoreCompileInputs.cache
+D:\faculta\AN III\Semestrul I\MTP - Medii si Tehnologii de Programare\Laborator\Test\Test_florarie\Test_florarie\obj\Debug\Test_florarie.exe
+D:\faculta\AN III\Semestrul I\MTP - Medii si Tehnologii de Programare\Laborator\Test\Test_florarie\Test_florarie\obj\Debug\Test_florarie.pdb
+D:\faculta\AN III\Semestrul I\MTP - Medii si Tehnologii de Programare\Laborator\Test\Test_florarie\Test_florarie\obj\Debug\Test_florarie.Login.resources
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\bin\Debug\Test_florarie.exe.config
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\bin\Debug\Test_florarie.exe
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\bin\Debug\Test_florarie.pdb
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\obj\Debug\Test_florarie.csproj.AssemblyReference.cache
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\obj\Debug\Test_florarie.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\obj\Debug\Test_florarie.Form1.resources
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\obj\Debug\Test_florarie.Login.resources
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\obj\Debug\Test_florarie.Properties.Resources.resources
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\obj\Debug\Test_florarie.csproj.GenerateResource.cache
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\obj\Debug\Test_florarie.csproj.CoreCompileInputs.cache
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\obj\Debug\Test_florarie.exe
+C:\Users\mihal\Desktop\Test_florarie\Test_florarie\obj\Debug\Test_florarie.pdb

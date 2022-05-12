@@ -1,0 +1,11 @@
+C:\Users\mihal\Desktop\MTP\ArticoleSportive\ArticoleSportive\bin\Debug\ArticoleSportive.exe.config
+C:\Users\mihal\Desktop\MTP\ArticoleSportive\ArticoleSportive\bin\Debug\ArticoleSportive.exe
+C:\Users\mihal\Desktop\MTP\ArticoleSportive\ArticoleSportive\bin\Debug\ArticoleSportive.pdb
+C:\Users\mihal\Desktop\MTP\ArticoleSportive\ArticoleSportive\obj\Debug\ArticoleSportive.csproj.AssemblyReference.cache
+C:\Users\mihal\Desktop\MTP\ArticoleSportive\ArticoleSportive\obj\Debug\ArticoleSportive.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihal\Desktop\MTP\ArticoleSportive\ArticoleSportive\obj\Debug\ArticoleSportive.Properties.Resources.resources
+C:\Users\mihal\Desktop\MTP\ArticoleSportive\ArticoleSportive\obj\Debug\ArticoleSportive.csproj.GenerateResource.cache
+C:\Users\mihal\Desktop\MTP\ArticoleSportive\ArticoleSportive\obj\Debug\ArticoleSportive.csproj.CoreCompileInputs.cache
+C:\Users\mihal\Desktop\MTP\ArticoleSportive\ArticoleSportive\obj\Debug\ArticoleSportive.exe
+C:\Users\mihal\Desktop\MTP\ArticoleSportive\ArticoleSportive\obj\Debug\ArticoleSportive.pdb
+C:\Users\mihal\Desktop\MTP\ArticoleSportive\ArticoleSportive\obj\Debug\ArticoleSportive.Form1.resources

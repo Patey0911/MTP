@@ -1,0 +1,6 @@
+Nume: Rez
+Prenume: asd
+CNP: 231
+Adresa: 132
+Data inmanarii: 5/11/2022 8:40:36 PM
+Sex: F
