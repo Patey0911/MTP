@@ -13,8 +13,7 @@ namespace Cadouri
 {
     public partial class Form2 : Form
     {
-        private string nume, prenume, cnp, adresa, sex, data_nasterii, varsta;
-        private DateTime data;
+        private string nume, prenume, cnp, adresa, sex, data_nasterii, varsta, data;
 
     public Form2()
         {
@@ -32,28 +31,38 @@ namespace Cadouri
             prenume = textBox2.Text;
             cnp = textBox3.Text;
             adresa = textBox4.Text;
-            data = dateTimePicker1.Value;
-            Copil a = new Copil(nume, prenume, cnp, adresa, data);
-            string dir = @"C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\Copii\"+nume;
-            if (!Directory.Exists(dir))
+            data = dateTimePicker1.Value.ToString();
+            if (cnp.Length == 13)
             {
-                Directory.CreateDirectory(dir);
-                string path = @"C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\Copii\"+nume+"\\"+nume+".txt";
-                using (StreamWriter sw = File.CreateText(path))
+                Copil a = new Copil(nume, prenume, cnp, adresa, data);
+                string dir = @"C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\Copii\" + nume;
+                if (!Directory.Exists(dir))
                 {
-                    sw.WriteLine("Nume: "+a.Nume);
-                    sw.WriteLine("Prenume: "+a.Prenume);
-                    sw.WriteLine("CNP: "+a.Cnp);
-                    sw.WriteLine("Adresa: "+a.Adresa);
-                    sw.WriteLine("Data inmanarii: "+a.Data);
-                    sw.WriteLine("Sex: " + a.Sex);
+                    Directory.CreateDirectory(dir);
+                    string path = @"C:\Users\mihal\Desktop\MTP\Cadouri\Cadouri\Copii\" + nume + "\\" + nume + ".txt";
+                    using (StreamWriter sw = File.CreateText(path))
+                    {
+                        sw.WriteLine(a.Nume);
+                        sw.WriteLine(a.Prenume);
+                        sw.WriteLine(a.Cnp);
+                        sw.WriteLine(a.Adresa);
+                        sw.WriteLine(a.Data);
+                        sw.WriteLine(a.Sex);
+                        sw.WriteLine(a.Data_nasterii);
+                        this.Close();
+                    }
+                }
+                else
+                {
+                    errorProvider1.SetError(textBox1, "Numele exista!");
+                    MessageBox.Show("Numele Exista");
                 }
             }
             else
             {
-
+                errorProvider2.SetError(textBox3, "CNP-ul nu are 13 cifre!!!");
+                MessageBox.Show("CNP-ul nu are 13 cifre!!!");
             }
-            this.Close();
         }
     }
 }
