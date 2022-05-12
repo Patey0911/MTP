@@ -61,7 +61,7 @@ namespace Cadouri
             else
             {
                 errorProvider2.SetError(textBox3, "CNP-ul nu are 13 cifre!!!");
-                MessageBox.Show("CNP-ul nu are 13 cifre!!!");
+                MessageBox.Show("CNP-ul nu are 13 cifre!!!")
             }
         }
     }
