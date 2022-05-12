@@ -1,0 +1,7 @@
+Nr. Inventar: 32
+Model echipament: asdasd
+Producator: Eu
+Producator: Eu
+Categorie: Calculator
+Nume Persoana: asdas
+CNP: 5011109203829

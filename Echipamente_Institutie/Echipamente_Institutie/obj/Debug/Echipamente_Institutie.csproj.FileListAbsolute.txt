@@ -1,0 +1,11 @@
+C:\Users\mihal\Desktop\MTP\Echipamente_Institutie\Echipamente_Institutie\bin\Debug\Echipamente_Institutie.exe.config
+C:\Users\mihal\Desktop\MTP\Echipamente_Institutie\Echipamente_Institutie\bin\Debug\Echipamente_Institutie.exe
+C:\Users\mihal\Desktop\MTP\Echipamente_Institutie\Echipamente_Institutie\bin\Debug\Echipamente_Institutie.pdb
+C:\Users\mihal\Desktop\MTP\Echipamente_Institutie\Echipamente_Institutie\obj\Debug\Echipamente_Institutie.csproj.AssemblyReference.cache
+C:\Users\mihal\Desktop\MTP\Echipamente_Institutie\Echipamente_Institutie\obj\Debug\Echipamente_Institutie.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihal\Desktop\MTP\Echipamente_Institutie\Echipamente_Institutie\obj\Debug\Echipamente_Institutie.Form1.resources
+C:\Users\mihal\Desktop\MTP\Echipamente_Institutie\Echipamente_Institutie\obj\Debug\Echipamente_Institutie.Properties.Resources.resources
+C:\Users\mihal\Desktop\MTP\Echipamente_Institutie\Echipamente_Institutie\obj\Debug\Echipamente_Institutie.csproj.GenerateResource.cache
+C:\Users\mihal\Desktop\MTP\Echipamente_Institutie\Echipamente_Institutie\obj\Debug\Echipamente_Institutie.csproj.CoreCompileInputs.cache
+C:\Users\mihal\Desktop\MTP\Echipamente_Institutie\Echipamente_Institutie\obj\Debug\Echipamente_Institutie.exe
+C:\Users\mihal\Desktop\MTP\Echipamente_Institutie\Echipamente_Institutie\obj\Debug\Echipamente_Institutie.pdb
