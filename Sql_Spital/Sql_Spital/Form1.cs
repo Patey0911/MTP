@@ -12,8 +12,9 @@ namespace Sql_Spital
 {
     public partial class Form1 : Form
     {
-        int id;
-        string departament, adresa;
+        int id, id_dep;
+        string departament, adresa, nume, prenume, cnp, post;
+        DateTime data_ang;
         public Form1()
         {
             Form2 f2=new Form2();
@@ -31,9 +32,25 @@ namespace Sql_Spital
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the '_Sql_SpitalDataSet.Personal' table. You can move, or remove it, as needed.
+            this.personalTableAdapter.Fill(this._Sql_SpitalDataSet.Personal);
             // TODO: This line of code loads data into the '_Sql_SpitalDataSet.Departament_Baza' table. You can move, or remove it, as needed.
             this.departament_BazaTableAdapter.Fill(this._Sql_SpitalDataSet.Departament_Baza);
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            id = (int)numericUpDown1.Value;
+            id_dep = (int)numericUpDown2.Value;
+            nume = textBox4.Text;
+            prenume = textBox3.Text;
+            cnp = textBox5.Text;
+            post = textBox6.Text;
+            data_ang = dateTimePicker1.Value;
+            personalTableAdapter.Insert(id,id_dep,nume,prenume,cnp,post,data_ang);
+            tableAdapterManager.UpdateAll(_Sql_SpitalDataSet);
+            personalTableAdapter.Fill(_Sql_SpitalDataSet.Personal);
         }
 
         private void button1_Click(object sender, EventArgs e)

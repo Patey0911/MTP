@@ -75,6 +75,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_Sql_SpitalDataSet.cs">
+      <DependentUpon>_Sql_SpitalDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="_Sql_SpitalDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

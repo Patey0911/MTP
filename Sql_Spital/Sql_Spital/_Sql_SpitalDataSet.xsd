@@ -138,21 +138,21 @@ SELECT Id, Id_departament, Nume, Prenume, CNP, Post, Data_angajarii FROM Persona
       </DataSource>
     </xs:appinfo>
   </xs:annotation>
-  <xs:element name="_Sql_SpitalDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="_Sql_SpitalDataSet" msprop:Generator_DataSetName="_Sql_SpitalDataSet">
+  <xs:element name="_Sql_SpitalDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="_Sql_SpitalDataSet" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="_Sql_SpitalDataSet">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element name="Departament_Baza" msprop:Generator_RowEvHandlerName="Departament_BazaRowChangeEventHandler" msprop:Generator_RowDeletedName="Departament_BazaRowDeleted" msprop:Generator_RowDeletingName="Departament_BazaRowDeleting" msprop:Generator_RowEvArgName="Departament_BazaRowChangeEvent" msprop:Generator_TablePropName="Departament_Baza" msprop:Generator_RowChangedName="Departament_BazaRowChanged" msprop:Generator_RowChangingName="Departament_BazaRowChanging" msprop:Generator_TableClassName="Departament_BazaDataTable" msprop:Generator_RowClassName="Departament_BazaRow" msprop:Generator_TableVarName="tableDepartament_Baza" msprop:Generator_UserTableName="Departament_Baza">
+        <xs:element name="Departament_Baza" msprop:Generator_RowClassName="Departament_BazaRow" msprop:Generator_RowEvHandlerName="Departament_BazaRowChangeEventHandler" msprop:Generator_RowDeletedName="Departament_BazaRowDeleted" msprop:Generator_RowDeletingName="Departament_BazaRowDeleting" msprop:Generator_RowEvArgName="Departament_BazaRowChangeEvent" msprop:Generator_TablePropName="Departament_Baza" msprop:Generator_RowChangedName="Departament_BazaRowChanged" msprop:Generator_UserTableName="Departament_Baza" msprop:Generator_RowChangingName="Departament_BazaRowChanging" msprop:Generator_TableClassName="Departament_BazaDataTable" msprop:Generator_TableVarName="tableDepartament_Baza">
           <xs:complexType>
             <xs:sequence>
-              <xs:element name="Id" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_UserColumnName="Id" type="xs:int" />
-              <xs:element name="Departament" msprop:Generator_ColumnPropNameInRow="Departament" msprop:Generator_ColumnPropNameInTable="DepartamentColumn" msprop:Generator_ColumnVarNameInTable="columnDepartament" msprop:Generator_UserColumnName="Departament">
+              <xs:element name="Id" msprop:Generator_UserColumnName="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnVarNameInTable="columnId" type="xs:int" />
+              <xs:element name="Departament" msprop:Generator_UserColumnName="Departament" msprop:Generator_ColumnPropNameInTable="DepartamentColumn" msprop:Generator_ColumnPropNameInRow="Departament" msprop:Generator_ColumnVarNameInTable="columnDepartament">
                 <xs:simpleType>
                   <xs:restriction base="xs:string">
                     <xs:maxLength value="50" />
                   </xs:restriction>
                 </xs:simpleType>
               </xs:element>
-              <xs:element name="Adresa" msprop:Generator_ColumnPropNameInRow="Adresa" msprop:Generator_ColumnPropNameInTable="AdresaColumn" msprop:Generator_ColumnVarNameInTable="columnAdresa" msprop:Generator_UserColumnName="Adresa">
+              <xs:element name="Adresa" msprop:Generator_UserColumnName="Adresa" msprop:Generator_ColumnPropNameInTable="AdresaColumn" msprop:Generator_ColumnPropNameInRow="Adresa" msprop:Generator_ColumnVarNameInTable="columnAdresa">
                 <xs:simpleType>
                   <xs:restriction base="xs:string">
                     <xs:maxLength value="50" />
@@ -162,40 +162,40 @@ SELECT Id, Id_departament, Nume, Prenume, CNP, Post, Data_angajarii FROM Persona
             </xs:sequence>
           </xs:complexType>
         </xs:element>
-        <xs:element name="Personal" msprop:Generator_RowEvHandlerName="PersonalRowChangeEventHandler" msprop:Generator_RowDeletedName="PersonalRowDeleted" msprop:Generator_RowDeletingName="PersonalRowDeleting" msprop:Generator_RowEvArgName="PersonalRowChangeEvent" msprop:Generator_TablePropName="Personal" msprop:Generator_RowChangedName="PersonalRowChanged" msprop:Generator_RowChangingName="PersonalRowChanging" msprop:Generator_TableClassName="PersonalDataTable" msprop:Generator_RowClassName="PersonalRow" msprop:Generator_TableVarName="tablePersonal" msprop:Generator_UserTableName="Personal">
+        <xs:element name="Personal" msprop:Generator_RowClassName="PersonalRow" msprop:Generator_RowEvHandlerName="PersonalRowChangeEventHandler" msprop:Generator_RowDeletedName="PersonalRowDeleted" msprop:Generator_RowDeletingName="PersonalRowDeleting" msprop:Generator_RowEvArgName="PersonalRowChangeEvent" msprop:Generator_TablePropName="Personal" msprop:Generator_RowChangedName="PersonalRowChanged" msprop:Generator_UserTableName="Personal" msprop:Generator_RowChangingName="PersonalRowChanging" msprop:Generator_TableClassName="PersonalDataTable" msprop:Generator_TableVarName="tablePersonal">
           <xs:complexType>
             <xs:sequence>
-              <xs:element name="Id" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_UserColumnName="Id" type="xs:int" />
-              <xs:element name="Id_departament" msprop:Generator_ColumnPropNameInRow="Id_departament" msprop:Generator_ColumnPropNameInTable="Id_departamentColumn" msprop:Generator_ColumnVarNameInTable="columnId_departament" msprop:Generator_UserColumnName="Id_departament" type="xs:int" />
-              <xs:element name="Nume" msprop:Generator_ColumnPropNameInRow="Nume" msprop:Generator_ColumnPropNameInTable="NumeColumn" msprop:Generator_ColumnVarNameInTable="columnNume" msprop:Generator_UserColumnName="Nume">
+              <xs:element name="Id" msprop:Generator_UserColumnName="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnVarNameInTable="columnId" type="xs:int" />
+              <xs:element name="Id_departament" msprop:Generator_UserColumnName="Id_departament" msprop:Generator_ColumnPropNameInTable="Id_departamentColumn" msprop:Generator_ColumnPropNameInRow="Id_departament" msprop:Generator_ColumnVarNameInTable="columnId_departament" type="xs:int" />
+              <xs:element name="Nume" msprop:Generator_UserColumnName="Nume" msprop:Generator_ColumnPropNameInTable="NumeColumn" msprop:Generator_ColumnPropNameInRow="Nume" msprop:Generator_ColumnVarNameInTable="columnNume">
                 <xs:simpleType>
                   <xs:restriction base="xs:string">
                     <xs:maxLength value="20" />
                   </xs:restriction>
                 </xs:simpleType>
               </xs:element>
-              <xs:element name="Prenume" msprop:Generator_ColumnPropNameInRow="Prenume" msprop:Generator_ColumnPropNameInTable="PrenumeColumn" msprop:Generator_ColumnVarNameInTable="columnPrenume" msprop:Generator_UserColumnName="Prenume">
+              <xs:element name="Prenume" msprop:Generator_UserColumnName="Prenume" msprop:Generator_ColumnPropNameInTable="PrenumeColumn" msprop:Generator_ColumnPropNameInRow="Prenume" msprop:Generator_ColumnVarNameInTable="columnPrenume">
                 <xs:simpleType>
                   <xs:restriction base="xs:string">
                     <xs:maxLength value="20" />
                   </xs:restriction>
                 </xs:simpleType>
               </xs:element>
-              <xs:element name="CNP" msprop:Generator_ColumnPropNameInRow="CNP" msprop:Generator_ColumnPropNameInTable="CNPColumn" msprop:Generator_ColumnVarNameInTable="columnCNP" msprop:Generator_UserColumnName="CNP">
+              <xs:element name="CNP" msprop:Generator_UserColumnName="CNP" msprop:Generator_ColumnPropNameInTable="CNPColumn" msprop:Generator_ColumnPropNameInRow="CNP" msprop:Generator_ColumnVarNameInTable="columnCNP">
                 <xs:simpleType>
                   <xs:restriction base="xs:string">
                     <xs:maxLength value="13" />
                   </xs:restriction>
                 </xs:simpleType>
               </xs:element>
-              <xs:element name="Post" msprop:Generator_ColumnPropNameInRow="Post" msprop:Generator_ColumnPropNameInTable="PostColumn" msprop:Generator_ColumnVarNameInTable="columnPost" msprop:Generator_UserColumnName="Post">
+              <xs:element name="Post" msprop:Generator_UserColumnName="Post" msprop:Generator_ColumnPropNameInTable="PostColumn" msprop:Generator_ColumnPropNameInRow="Post" msprop:Generator_ColumnVarNameInTable="columnPost">
                 <xs:simpleType>
                   <xs:restriction base="xs:string">
                     <xs:maxLength value="20" />
                   </xs:restriction>
                 </xs:simpleType>
               </xs:element>
-              <xs:element name="Data_angajarii" msprop:Generator_ColumnPropNameInRow="Data_angajarii" msprop:Generator_ColumnPropNameInTable="Data_angajariiColumn" msprop:Generator_ColumnVarNameInTable="columnData_angajarii" msprop:Generator_UserColumnName="Data_angajarii" type="xs:dateTime" />
+              <xs:element name="Data_angajarii" msprop:Generator_UserColumnName="Data_angajarii" msprop:Generator_ColumnPropNameInTable="Data_angajariiColumn" msprop:Generator_ColumnPropNameInRow="Data_angajarii" msprop:Generator_ColumnVarNameInTable="columnData_angajarii" type="xs:dateTime" />
             </xs:sequence>
           </xs:complexType>
         </xs:element>
@@ -212,7 +212,7 @@ SELECT Id, Id_departament, Nume, Prenume, CNP, Post, Data_angajarii FROM Persona
   </xs:element>
   <xs:annotation>
     <xs:appinfo>
-      <msdata:Relationship name="FK__Personal__Id_dep__276EDEB3" msdata:parent="Departament_Baza" msdata:child="Personal" msdata:parentkey="Id" msdata:childkey="Id_departament" msprop:Generator_UserParentTable="Departament_Baza" msprop:Generator_UserChildTable="Personal" msprop:Generator_RelationVarName="relationFK__Personal__Id_dep__276EDEB3" msprop:Generator_ChildPropName="GetPersonalRows" msprop:Generator_ParentPropName="Departament_BazaRow" msprop:Generator_UserRelationName="FK__Personal__Id_dep__276EDEB3" />
+      <msdata:Relationship name="FK__Personal__Id_dep__276EDEB3" msdata:parent="Departament_Baza" msdata:child="Personal" msdata:parentkey="Id" msdata:childkey="Id_departament" msprop:Generator_UserParentTable="Departament_Baza" msprop:Generator_UserChildTable="Personal" msprop:Generator_RelationVarName="relationFK__Personal__Id_dep__276EDEB3" msprop:Generator_ChildPropName="GetPersonalRows" msprop:Generator_UserRelationName="FK__Personal__Id_dep__276EDEB3" msprop:Generator_ParentPropName="Departament_BazaRow" />
     </xs:appinfo>
   </xs:annotation>
 </xs:schema>
