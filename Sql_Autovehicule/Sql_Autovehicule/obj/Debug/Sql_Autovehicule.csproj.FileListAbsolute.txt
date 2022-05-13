@@ -1,0 +1,13 @@
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\bin\Debug\Autovehicul.mdf
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\bin\Debug\Autovehicul_log.ldf
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\bin\Debug\Sql_Autovehicule.exe.config
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\bin\Debug\Sql_Autovehicule.exe
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\bin\Debug\Sql_Autovehicule.pdb
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\obj\Debug\Sql_Autovehicule.csproj.AssemblyReference.cache
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\obj\Debug\Sql_Autovehicule.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\obj\Debug\Sql_Autovehicule.Form1.resources
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\obj\Debug\Sql_Autovehicule.Properties.Resources.resources
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\obj\Debug\Sql_Autovehicule.csproj.GenerateResource.cache
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\obj\Debug\Sql_Autovehicule.csproj.CoreCompileInputs.cache
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\obj\Debug\Sql_Autovehicule.exe
+C:\Users\mihal\Desktop\MTP\Sql_Autovehicule\Sql_Autovehicule\obj\Debug\Sql_Autovehicule.pdb
