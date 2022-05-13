@@ -1,0 +1,14 @@
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\bin\Debug\Sql-Spital.mdf
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\bin\Debug\Sql-Spital_log.ldf
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\bin\Debug\Sql_Spital.exe.config
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\bin\Debug\Sql_Spital.exe
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\bin\Debug\Sql_Spital.pdb
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\obj\Debug\Sql_Spital.csproj.AssemblyReference.cache
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\obj\Debug\Sql_Spital.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\obj\Debug\Sql_Spital.Form1.resources
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\obj\Debug\Sql_Spital.Form2.resources
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\obj\Debug\Sql_Spital.Properties.Resources.resources
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\obj\Debug\Sql_Spital.csproj.GenerateResource.cache
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\obj\Debug\Sql_Spital.csproj.CoreCompileInputs.cache
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\obj\Debug\Sql_Spital.exe
+C:\Users\mihal\Desktop\MTP\Sql_Spital\Sql_Spital\obj\Debug\Sql_Spital.pdb

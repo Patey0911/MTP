@@ -24,6 +24,8 @@ namespace Cadouri
         [Description("Data nasterii"), Category("Date Personale")]
 
         public string Data_nasterii { get { return data_nasterii; } set { data_nasterii = value; } }
+        [Description("Varsta"),Category("Date Personale")]
+        public string Varsta { get { return varsta; } set { varsta = value; } }
         [Description("Sex"), Category("Date Personale")]
         public string Sex { get { return sex; } set { sex = value; } }
         [Description("Data Inmanarii"), Category("Date Cadou")]
