@@ -1,0 +1,11 @@
+C:\Users\mihal\Desktop\MTP\TreeViewFisiere\TreeViewFisiere\bin\Debug\TreeViewFisiere.exe.config
+C:\Users\mihal\Desktop\MTP\TreeViewFisiere\TreeViewFisiere\bin\Debug\TreeViewFisiere.exe
+C:\Users\mihal\Desktop\MTP\TreeViewFisiere\TreeViewFisiere\bin\Debug\TreeViewFisiere.pdb
+C:\Users\mihal\Desktop\MTP\TreeViewFisiere\TreeViewFisiere\obj\Debug\TreeViewFisiere.csproj.AssemblyReference.cache
+C:\Users\mihal\Desktop\MTP\TreeViewFisiere\TreeViewFisiere\obj\Debug\TreeViewFisiere.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihal\Desktop\MTP\TreeViewFisiere\TreeViewFisiere\obj\Debug\TreeViewFisiere.Form1.resources
+C:\Users\mihal\Desktop\MTP\TreeViewFisiere\TreeViewFisiere\obj\Debug\TreeViewFisiere.Properties.Resources.resources
+C:\Users\mihal\Desktop\MTP\TreeViewFisiere\TreeViewFisiere\obj\Debug\TreeViewFisiere.csproj.GenerateResource.cache
+C:\Users\mihal\Desktop\MTP\TreeViewFisiere\TreeViewFisiere\obj\Debug\TreeViewFisiere.csproj.CoreCompileInputs.cache
+C:\Users\mihal\Desktop\MTP\TreeViewFisiere\TreeViewFisiere\obj\Debug\TreeViewFisiere.exe
+C:\Users\mihal\Desktop\MTP\TreeViewFisiere\TreeViewFisiere\obj\Debug\TreeViewFisiere.pdb
