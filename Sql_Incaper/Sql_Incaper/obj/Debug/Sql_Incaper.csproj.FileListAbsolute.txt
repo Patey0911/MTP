@@ -1,0 +1,15 @@
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\bin\Debug\Masurare.mdf
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\bin\Debug\Masurare_log.ldf
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\bin\Debug\Sql_Incaper.exe.config
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\bin\Debug\Sql_Incaper.exe
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\bin\Debug\Sql_Incaper.pdb
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\obj\Debug\Sql_Incaper.csproj.AssemblyReference.cache
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\obj\Debug\Sql_Incaper.csproj.SuggestedBindingRedirects.cache
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\obj\Debug\Sql_Incaper.Form1.resources
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\obj\Debug\Sql_Incaper.Form2.resources
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\obj\Debug\Sql_Incaper.Properties.Resources.resources
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\obj\Debug\Sql_Incaper.csproj.GenerateResource.cache
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\obj\Debug\Sql_Incaper.csproj.CoreCompileInputs.cache
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\obj\Debug\Sql_Incaper.exe
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\obj\Debug\Sql_Incaper.pdb
+C:\Users\mihal\Desktop\MTP\Sql_Incaper\Sql_Incaper\obj\Debug\Sql_Incaper.Form3.resources
