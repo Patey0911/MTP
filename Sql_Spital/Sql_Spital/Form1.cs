@@ -14,6 +14,7 @@ namespace Sql_Spital
     {
         int id, id_dep;
         string departament, adresa, nume, prenume, cnp, post;
+
         DateTime data_ang;
         public Form1()
         {
@@ -41,8 +42,8 @@ namespace Sql_Spital
 
         private void button2_Click(object sender, EventArgs e)
         {
-            id = (int)numericUpDown1.Value;
-            id_dep = (int)numericUpDown2.Value;
+            id = (int)numericUpDown2.Value;
+            id_dep = (int)numericUpDown3.Value;
             nume = textBox4.Text;
             prenume = textBox3.Text;
             cnp = textBox5.Text;
@@ -61,6 +62,24 @@ namespace Sql_Spital
             departament_BazaTableAdapter.Insert(id, departament, adresa);
             tableAdapterManager.UpdateAll(_Sql_SpitalDataSet);
             departament_BazaTableAdapter.Fill(_Sql_SpitalDataSet.Departament_Baza);
+        }
+
+        private void departament_BazaDataGridView_CellMouseClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            //personalDataGridView.Dispose();
+            if (e.RowIndex >= 0)
+            {
+                DataGridViewRow row = departament_BazaDataGridView.Rows[e.RowIndex];
+
+                foreach (DataRowView drv in personalBindingSource.List)
+                {
+                    if (row.Cells[0].Value.ToString() == drv[1].ToString())
+                    {
+                        //personalTableAdapter.Insert((int)drv[0], (int)drv[1], drv[2].ToString(), drv[3].ToString(), drv[4].ToString(), drv[5].ToString(), (DateTime)drv[6]);
+                        personalTableAdapter.Fill(_Sql_SpitalDataSet.Personal);
+                    }
+                }
+            }
         }
     }
 }
